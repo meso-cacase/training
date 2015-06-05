@@ -5,7 +5,7 @@
 内藤 雄樹（[自己紹介](http://g86.dbcls.jp/~meso/meme/me)）  
 2015年6月5日 DBCLS三島ラボ
 
-  - [スライドPDF]() 準備中
+  - [スライドPDF](http://g86.dbcls.jp/~meso/meme/wp-content/uploads/2015/06/y-naito_chypoxia2015.pdf)
 
 講習で紹介するデータベースやウェブツールへのリンクです。
 
