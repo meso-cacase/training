@@ -9,6 +9,36 @@
 
 講習で紹介するデータベースやウェブツールへのリンクです。
 
+#### NCBI Entrez ####
+
+  - NCBI Entrez - http://www.ncbi.nlm.nih.gov/
+
+#### NCBI BLAST ####
+
+  - NCBI BLAST - http://www.ncbi.nlm.nih.gov/BLAST
+
+#### UCSC BLAT ####
+
+  - UCSC BLAT - https://genome.ucsc.edu/cgi-bin/hgBlat
+  - 統合TVによる解説動画
+    - [高速アラインメントツールBLATをプライマー設計支援ツールとして使い倒す2009](http://togotv.dbcls.jp/20090619.html)
+
+#### UCSCゲノムブラウザ ####
+
+![スクリーンショット]
+(http://g86.dbcls.jp/~meso/meme/wp-content/uploads/2015/06/867440539.png
+"スクリーンショット")
+
+  - UCSCゲノムブラウザ – https://genome.ucsc.edu/cgi-bin/hgGateway
+  - 統合TVによる解説動画
+    - [UCSC Genome Browserの使い方〜基本編](http://togotv.dbcls.jp/20091113.html)
+    - [UCSC Genome Browserの使い方〜表示編](http://togotv.dbcls.jp/20091126.html)
+    - [UCSC Genome Browser の使い方〜アノテーショントラック編〜](http://togotv.dbcls.jp/20100722.html)
+    - [UCSC Genome Browserの使い方〜wig形式のファイルをトラックとして追加する〜](http://togotv.dbcls.jp/20120116.html)
+    - [UCSC Genome Browserの使い方〜表示+ENCODE編〜 2012](http://togotv.dbcls.jp/20120528.html)
+    - [UCSC genome browserの使い方～配列取得編～2013](http://togotv.dbcls.jp/20131113.html)
+
+
 #### 統合遺伝子検索GGRNA ####
 
 ![スクリーンショット]
@@ -40,17 +70,11 @@
   - ミスマッチやギャップを含む検索 – http://GGGenome.dbcls.jp/hg19/2/TTCACTGACAACATTGAGTA
   - 表計算ソフトで塩基配列検索
     - [Googleスプレッドシート](https://docs.google.com/spreadsheet/ccc?key=0AqoKv30zqpDbdHJpSFI1SzJOZmxjVkYzUXByMFhrWWc&usp=sharing#gid=0) を参照
-  - 検索結果ををゲノムブラウザ上に表示（下記参照）
+  - 検索結果をゲノムブラウザ上に表示
+    1. UCSCゲノムブラウザ (http://genome.ucsc.edu/cgi-bin/hgGateway)
+    2. 「add custom tracks」ボタン
+    3. 「http://GGGenome.dbcls.jp/hg19/(検索したい配列).bed」と入力
 
-#### UCSCゲノムブラウザ ####
-
-![スクリーンショット]
-(http://g86.dbcls.jp/~meso/meme/wp-content/uploads/2015/06/867440539.png
-"スクリーンショット")
-
-  1. UCSCゲノムブラウザ (http://genome.ucsc.edu/cgi-bin/hgGateway)
-  2. 「add custom tracks」ボタン
-  3. 「http://GGGenome.dbcls.jp/hg19/(検索したい配列).bed」と入力
 
 #### siRNA設計ウェブサーバsiDirect ####
 
