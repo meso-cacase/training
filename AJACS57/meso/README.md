@@ -11,13 +11,25 @@
 
 #### NCBI Entrez ####
 
+![スクリーンショット]
+(http://g86.dbcls.jp/~meso/meme/wp-content/uploads/2015/09/NCBI.png
+"スクリーンショット")
+
   - NCBI Entrez - http://www.ncbi.nlm.nih.gov/
 
 #### NCBI BLAST ####
 
+![スクリーンショット]
+(http://g86.dbcls.jp/~meso/meme/wp-content/uploads/2015/09/BLAST.png
+"スクリーンショット")
+
   - NCBI BLAST - http://www.ncbi.nlm.nih.gov/BLAST
 
 #### UCSC BLAT ####
+
+![スクリーンショット]
+(http://g86.dbcls.jp/~meso/meme/wp-content/uploads/2015/09/BLAT.png
+"スクリーンショット")
 
   - UCSC BLAT - https://genome.ucsc.edu/cgi-bin/hgBlat
   - 統合TVによる解説動画
@@ -108,3 +120,7 @@
 "スクリーンショット")
 
   - 『[今日から使える！ データベース・ウェブツール 達人になるための実践ガイド100](https://www.yodosha.co.jp/jikkenigaku/book/9784758103435/)』実験医学増刊 2014年12月発行
+
+![スクリーンショット]
+(http://g86.dbcls.jp/~meso/meme/wp-content/uploads/2015/09/B2uOQ3eCIAAFX9A.png
+"スクリーンショット")
