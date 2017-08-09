@@ -51,7 +51,7 @@
 ![スクリーンショット](http://data.dbcls.jp/~meso/img/GGRNA.v2.jpg
 "スクリーンショット")
 
-  - GGRNAトップページ – http://GGRNA.dbcls.jp/
+  - 統合遺伝子検索GGRNA – http://GGRNA.dbcls.jp/
   - 統合TVによる解説動画
     - [GGRNAで遺伝子をGoogleのように検索する](http://togotv.dbcls.jp/ja/20120124.html)
   - ヒトのnanogを検索 – http://GGRNA.dbcls.jp/hs/nanog
@@ -69,7 +69,7 @@
 ![スクリーンショット](http://data.dbcls.jp/~meso/img/GGGenome_screen.png
 "スクリーンショット")
 
-  - GGGenomeトップページ – http://GGGenome.dbcls.jp/
+  - 高速配列検索GGGenome – http://GGGenome.dbcls.jp/
   - 統合TVによる解説動画
     - [高速配列検索 GGGenome《ゲゲゲノム》の使い方](http://togotv.dbcls.jp/ja/20131025.html)
     - [GGGenome《ゲゲゲノム》で転写因子結合サイトを検索してゲノムブラウザに表示する](http://togotv.dbcls.jp/ja/20150721.html)
@@ -86,7 +86,7 @@
 ![スクリーンショット](http://data.dbcls.jp/~meso/img/siDirect_top.jpg
 "スクリーンショット")
 
-  - siDirectトップページ - http://siDirect2.RNAi.jp/
+  - siDirect - http://siDirect2.RNAi.jp/
   - 統合TVによる解説動画
     - [siDirectでsiRNAを設計する2011](http://togotv.dbcls.jp/ja/20110606.html)
     - [siDirectのオプションを使いこなす & shRNAを設計する](http://togotv.dbcls.jp/ja/20110712.html)
@@ -96,9 +96,16 @@
 ![スクリーンショット](http://data.dbcls.jp/~meso/img/CRISPRscreen.png
 "スクリーンショット")
 
-  - CRISPRdirect (http://crispr.dbcls.jp/)
+  - CRISPRdirect - http://crispr.dbcls.jp/
   - 統合TVによる解説動画
     - [CRISPRdirectを使ってCRISPR/Cas法のガイドRNA配列を設計する](http://togotv.dbcls.jp/ja/20140412.html)
+
+#### 各生物種のゲノム ####
+
+  - NCBI Genome - https://www.ncbi.nlm.nih.gov/genome/browse/
+  - Ensembl Genomes - http://ensemblgenomes.org/
+    - 昆虫はEnsembl Metazoa - http://metazoa.ensembl.org/
+    - 植物はEnsembl Plants - http://plants.ensembl.org/
 
 #### 研究に役立つウェブツール ####
 
@@ -109,7 +116,39 @@
 ![スクリーンショット](http://data.dbcls.jp/~meso/img/difff6.png
 "スクリーンショット")
 
-  - 『[今日から使える！ データベース・ウェブツール 達人になるための実践ガイド100](https://www.yodosha.co.jp/jikkenigaku/book/9784758103435/)』実験医学増刊 2014年12月発行
+  - Wolfram Alpha (https://www.wolframalpha.com/)
+  - 統合TVによる解説動画
+    - [WolframAlphaを使い倒す](http://togotv.dbcls.jp/ja/20090626.html)
+    - [Wolfram Alpha を高機能関数電卓として使う その1：基本操作編](http://togotv.dbcls.jp/ja/20140404.html)
+    - [Wolfram Alpha を高機能関数電卓として使う その2：数式入力編](http://togotv.dbcls.jp/ja/20140604.html)
+    - [Wolfram Alpha を高機能関数電卓として使う その3：微分・積分・方程式編](http://togotv.dbcls.jp/ja/20140717.html)
+
+![スクリーンショット](http://data.dbcls.jp/~meso/img/Wolframalpha1.png
+"スクリーンショット")
+
+![スクリーンショット](http://data.dbcls.jp/~meso/img/Wolframalpha2.png
+"スクリーンショット")
+
+  - TogoDB (http://togodb.org/)
+  - 統合TVによる解説動画
+    - [TogoDBの使い方 自分のデータベースを作る](http://togotv.dbcls.jp/ja/20100807.html)
+
+![スクリーンショット](http://data.dbcls.jp/~meso/img/TogoDB.png
+"スクリーンショット")
+
+  - 研究者の情報を調べるためのツール
+    - 研究成果から
+      - 日本の博士論文をさがす CiNii Dissertations - http://ci.nii.ac.jp/d/
+      - 特許情報プラットフォーム J-PlatPat - https://www.j-platpat.inpit.go.jp/
+    - 研究資金から
+      - 科研費採択課題 KAKEN - https://kaken.nii.ac.jp/
+      - 日本の研究.com - https://research-er.jp/
+    - 本人が発信する情報から
+      - researchmap - http://researchmap.jp/
+      - Facebook - https://www.facebook.com/
+      - Twitter - https://twitter.com/
+
+  - 参考：『[今日から使える！ データベース・ウェブツール 達人になるための実践ガイド100](https://www.yodosha.co.jp/jikkenigaku/book/9784758103435/)』実験医学増刊 2014年12月発行
 
 ![スクリーンショット](http://data.dbcls.jp/~meso/img/B2uOQ3eCIAAFX9A.png
 "スクリーンショット")
