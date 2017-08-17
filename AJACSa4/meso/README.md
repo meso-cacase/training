@@ -6,6 +6,8 @@
 2017年8月10日 統合データベース講習会 AJACSa4つくば  
 農林水産技術会議事務局 筑波産学連携支援センター
 
+  - [スライドPDF (22MB)](http://data.dbcls.jp/~meso/pdf/AJACSa4_tsukuba.pdf)
+
 講習で紹介するデータベースやウェブツールへのリンクです。
 
 #### NCBI Entrez ####
